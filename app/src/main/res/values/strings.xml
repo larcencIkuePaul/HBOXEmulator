@@ -2,7 +2,16 @@
     <string name="app_name">HBOX Emulator</string>
     <string name="action_settings">Settings</string>
 
-    <string name="title_image_transmission_start_stop">Image</string>
+    <string name="title_image_transmission_start_stop">Photo Transmission</string>
     <string name="title_image_transmission_status_start">Start</string>
     <string name="title_image_transmission_status_stop">Stop</string>
+    <string name="title_delay_interval">Server Delay Level</string>
+
+    <string name="delay_interval_unit">ms</string>
+    <string name="seekbar_defaut_value">Lv. 0 / No Delay.</string>
+
+    <string name="text_cmd_socket_status_connected">Cmd socket connected.</string>
+    <string name="text_cmd_socket_status_closed">Cmd socket closed.</string>
+    <string name="text_img_socket_status_connected">Img socket connected.</string>
+    <string name="text_img_socket_status_closed">Img socket closed.</string>
 </resources>
